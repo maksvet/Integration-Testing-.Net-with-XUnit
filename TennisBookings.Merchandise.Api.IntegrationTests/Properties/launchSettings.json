@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "TennisBookings.Merchandise.Api.IntegrationTests": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "https://localhost:63881;http://localhost:63882"
+    }
+  }
+}
